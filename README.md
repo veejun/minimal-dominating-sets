@@ -9,7 +9,7 @@ output: 2
 You may assume you can construct a valid tree with the input.  
 ![image](https://user-images.githubusercontent.com/24825933/123603941-f4135380-d82c-11eb-97dc-934645bec388.png)
 
-# Weight minimal dominating sets
+# Weighted minimal dominating sets
 
 Calculate the minimum sum of weight of the dominating sets.  
 The data stored in a tree node indicates the cost for picking the node.  
